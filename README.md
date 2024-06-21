@@ -4,30 +4,32 @@
 
 **Objetivos:**
 
-- Compreender os fundamentos das redes de computadores.
-- Configurar e gerenciar servidores web.
+- [ ] Compreender os fundamentos das redes de computadores.
+- [ ] Configurar e gerenciar servidores web.
 
 **Atividades:**
 
-- Leitura e Teoria:
-  - Livro: Ler capítulos 1-3 de "Computer Networking: A Top-Down Approach".
-  - Resumo e anotações dos principais conceitos de cada capítulo.
+- [ ] Leitura e Teoria:
+
+- Livro: Ler capítulos 1-3 de "Computer Networking: A Top-Down Approach".
+- Resumo e anotações dos principais conceitos de cada capítulo.
+
 - Cursos Online:
   - Curso: Completar módulos 1-3 do Curso de Redes de Computadores na Coursera.
   - Realizar quizzes e atividades práticas oferecidas no curso.
 
 **Prática e Configuração:**
 
-- Tutorial: Seguir o NGINX Documentation.
-- Configurar um servidor NGINX em uma máquina virtual ou em um servidor local.
-- Realizar exercícios práticos, como configurar um site estático e redirecionamentos.
+- [ ] Tutorial: Seguir o NGINX Documentation.
+- [ ] Configurar um servidor NGINX em uma máquina virtual ou em um servidor local.
+- [ ] Realizar exercícios práticos, como configurar um site estático e redirecionamentos.
 
 ### Semana 3-4: Linux e Administração de Sistemas
 
 **Objetivos:**
 
-- Dominar comandos básicos do Linux.
-- Aprender sobre administração de sistemas Linux.
+- [ ] Dominar comandos básicos do Linux.
+- [ ] Aprender sobre administração de sistemas Linux.
 
 **Atividades:**
 
